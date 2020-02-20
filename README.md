@@ -8,3 +8,7 @@ OCHIENG ALICE
 ## Known Bugs;
 * At first js was not working.
 ## Technologies Use:
+ * Javascript
+ * Html
+ * CSS
+ * Bootstrap
