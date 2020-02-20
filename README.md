@@ -6,3 +6,4 @@ OCHIENG ALICE
 ## Setup/installation Requirements;
 * There is no set up required for this web.
 ## Known Bugs;
+* At first js was not working.
