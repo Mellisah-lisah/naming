@@ -4,3 +4,4 @@ Is a system in which Ghana people name their children following the day of the w
 ### AUTHOR:
 OCHIENG ALICE
 ## Setup/installation Requirements;
+* There is no set up required for this web.
