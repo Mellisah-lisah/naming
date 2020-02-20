@@ -1,3 +1,19 @@
 body{
   background-image: url(https://bit.ly/3bF5JWf);
+  color:white;
+}
+.topic{
+  text-align: center;
+  font-size: xx-large;
+
+}
+.form{
+  text-align:center;
+  font-size: larger;
+  color:black;
+}
+h1{
+  font-size: xx-large;
+  color:black;
+  text-align: center;
 }

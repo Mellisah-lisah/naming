@@ -6,8 +6,8 @@ function myFunction(){
   var year = parseInt(document.getElementById("year").value);
   var month = parseInt(document.getElementById("month").value);
   var day = parseInt(document.getElementById("day").value);
- var male = document.getElementById("male");
- var female = document.getElementById("female");
+  var male = document.getElementById("male");
+  var female = document.getElementById("female");
 
   if(day<=0||day>31){
   alert("invalid");
