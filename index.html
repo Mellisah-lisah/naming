@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head >
+
+  <link rel="stylesheet" href="styles.css">
   <title>naming</title>
 </head>
 <body>
@@ -8,7 +10,35 @@
   <h1>akan</h1>
 </div>
 <div class="topic">
-  
-</div>  
+  <P>The Akan people of Ghana frequently name 
+    <br>their children after the day of the week
+    <br>they were born and the order in which they
+    <br>were born. These "day names" have further
+    <br>meanings conccerning the soul and character
+    <br>of the person. Middle names have considerably
+    <br>more variety and can refer to their birth 
+    <br>order, twin status, or an ancestor's middle name.</P> 
+</div> 
+<div class="form">
+  <form>
+    <label for="year">Year</label><br>
+    <input type="text" class="form" id="year" placeholder="Enter year" max-length="4" min-length="4" required min= "1980" max= "2020"><br>
+
+    <label for="month">Month</label><br>
+    <input type="text" class="form" id="month" placeholder="Enter month" required max-length="2" min="1" max="12" ><br>
+
+    <label for="day">Day</label><br>
+    <input type="text" class="form" id="day" placeholder="Enter day" required max-length="2" min= "1" max= "31"><br>
+
+    <label for="female">Female</label><br>
+    <input type="radio" name="gender" id="male" value="male"  checked><br>
+
+    <label>Male</label><br>
+    <input type="radio" name="gender" id="female" value="female"  checked><br>
+
+    <button type="submit" onclick="myFunction()" >Submit</button>
+  </form> 
+</div> 
+<script src="js/script.js"></script>
 </body>
 </html>
