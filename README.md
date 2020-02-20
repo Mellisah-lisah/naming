@@ -17,3 +17,6 @@ OCHIENG ALICE
 +254745799525
 ### License
 Licensed under {MIT licence} (LICENCE)
+###  Link
+To run this project you can use thelink:
+ https://mellisah-lisah.github.io/AKAN/
