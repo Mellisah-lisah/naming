@@ -7,3 +7,4 @@ OCHIENG ALICE
 * There is no set up required for this web.
 ## Known Bugs;
 * At first js was not working.
+## Technologies Use:
